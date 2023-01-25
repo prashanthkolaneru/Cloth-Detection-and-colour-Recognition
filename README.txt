@@ -11,3 +11,13 @@
 weights are in yolo coco folder.
 
 
+#Data Gathering
+Data was collected from deep fashion dataset and amzon and mythra sites.
+
+#Intreasted classes
+The 7 different types of clothing is detected using yolov3 model
+
+#colour recogntion
+Colour of cloth is analysized using colour histograms and webcolors
+
+
